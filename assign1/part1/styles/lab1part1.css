@@ -8,6 +8,7 @@ This is the style sheet for Lab 1 Part 1 page for Web Development - Fundamentals
 body {
   max-width: 800px;
   margin: 0 auto;
+  font-family: Arial;
 }
 
 .sender-column {
